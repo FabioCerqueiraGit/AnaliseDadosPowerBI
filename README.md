@@ -11,6 +11,8 @@ Para Concessionária de Veículos FIAT |
 
 Cliente: FIAT Santa Clara
 
+Análise Realizada: Ao criar o painel para o gerente financeiro, destaquei métricas-chave como Faturamento Total, Custo dos Produtos Comercializados, Despesa Administrativa/Operacional e Lucratividade Total. Incluí também visualizações dos principais clientes, categorização de vendas por tipo de produto (Carros Novos e Usados) e classificação de custos/despesas (Fixas e Variáveis). No painel DETALHAMENTO o objetivo foi fornecer uma visão abrangente do desempenho financeiro, capacitando o gerente a tomar decisões estratégicas com base em insights valiosos e autoexplicativos.
+
 Liguagem de Programação: DAX
 
 Funções utilizadas: SUMX(), RELATED(), FORMAT(), CALENDARAUTO(), MONTH(), DISTINCTCOUNT(), DIVIDE(), CALCULATE(), SAMEPERIOD(), VALUES(), SELECTEDVALUE()
